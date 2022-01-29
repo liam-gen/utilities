@@ -1,2 +1,3 @@
 RewriteEngine On
 RewriteRule ^cdn cdn.html [L]
+RewriteRule ^cdns cdn.html [L]
